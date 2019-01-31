@@ -1,5 +1,5 @@
 # model_of_single_tactile_unit
-This is the code for the paper "Simulating cutaneous tactile receptors and the spiking responses of their afferents using an electromechanical circuit model"#
+This is the code for the paper "Simulating cutaneous tactile receptors and the spiking responses of their afferents using an electromechanical circuit model"
 
 The source code of current model was presented in the function "tactile_units_simulating()" in file of receptor.py, which correctly implements the diagram as illustrated in Fig 1(a) in the paper. All the simulation results in section 3 of the paper were produced by calling this funtion. 
 
