@@ -11,7 +11,8 @@ The result figures in the paper and their corresponding code file are shown as f
 (4)  Single_frequency_response.py --->Fig 5. The characteristics of frequency-threshold...  
 (5)  Spike_Timing.py --->Fig 6. Evaluation of spike-timing precision for each afferent type.  
 (6)  Computation_efficiency.py--->Fig 7. Evaluation of computation efficiency for simulating population units.  
-(1)  Comparisons_spiking_neuron_models.py --->Fig 8. Performance comparison between different spiking neuron models.    
+(7)  Comparisons_spiking_neuron_models.py --->Fig 8. Performance comparison between different spiking neuron models.   
 
+We also provide the ipynb files in folder "ipynbs" for all the simulation files above, which allow users see the results of running the code online.  
 
 spikes_Saal_et_al.m  ---> Spking trains shown in top of in each row in Fig. 6 (a). The file must be put in 'docs' folder of Touchsim code which can be downloaded from the link: http://bensmaialab.org/code/touchsim/
