@@ -5,13 +5,13 @@ The source code of current model was presented in the function "tactile_units_si
 
 The result figures in the paper and their corresponding code file are shown as follows:  
 
-(1)  Training_results.py ---> Fig 2. Averaged loss value changing with iterations...  
-(2)  Intermediate_signals.py ---> Fig 3. Details of intermediate signals..  
-(3)  Single_adaption.py--->Fig 4. Adaptation properties of each afferent type...  
-(4)  Single_frequency_response.py --->Fig 5. The characteristics of frequency-threshold...  
-(5)  Spike_Timing.py --->Fig 6. Evaluation of spike-timing precision for each afferent type.  
-(6)  Computation_efficiency.py--->Fig 7. Evaluation of computation efficiency for simulating population units.  
-(7)  Comparisons_spiking_neuron_models.py --->Fig 8. Performance comparison between different spiking neuron models.   
+ 
+(1)  Intermediate_signals.py ---> Fig 3. Details of intermediate signals..  
+(2)  Single_adaption.py--->Fig 4. Adaptation properties of each afferent type...  
+(3)  Single_frequency_response.py --->Fig 5. The characteristics of frequency-threshold...  
+(4)  Spike_Timing.py --->Fig 6. Evaluation of spike-timing precision for each afferent type.  
+(5)  Computation_efficiency.py--->Fig 7. Evaluation of computation efficiency for simulating population units.  
+(6)  Comparisons_spiking_neuron_models.py --->Fig 8. Performance comparison between different spiking neuron models.   
 
 We also provide the ipynb files in folder "ipynbs" for all the simulation files above, which allow users see the results of running the code online.  
 
